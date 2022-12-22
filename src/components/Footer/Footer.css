@@ -1,0 +1,9 @@
+.link {
+  color: white !important;
+  text-decoration: none !important;
+  width: max-content !important;
+  margin: 5% !important;
+}
+.link :hover {
+  color: grey !important;
+}
